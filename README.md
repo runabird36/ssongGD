@@ -9,8 +9,8 @@ ssongGD stands for ssong grammar detail
 
 ### common
 
-[01_static과 메모리구조](common/01_static과 메모리구조)
+[01_static과 메모리구조](common/01_static_and_memory_structure)
 
-[02_객체와 인스턴스와 클래스](common/02_객체와 인스턴스와 클래스)
+[02_객체와 인스턴스와 클래스](common/02_class_object_instance)
 
 [03_python decorator](python/work_decorator)
