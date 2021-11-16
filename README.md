@@ -9,7 +9,7 @@ ssongGD stands for ssong grammar detail
 
 ### common
 
-[01_static과 메모리구조](common/01_static과 메모리구조.md)
+[01_static과 메모리구조](common/01_static과 메모리구조)
 
 [02_객체와 인스턴스와 클래스](common)
 
