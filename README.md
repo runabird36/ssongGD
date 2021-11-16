@@ -4,6 +4,7 @@ ssongGD stands for ssong grammar detail
 
 ## Table of contents
 - common : 언어를 넘어서서 컴퓨터 공학적으로 공통된 내용
+- python : 파이썬 위주의 내용
 
 
 
